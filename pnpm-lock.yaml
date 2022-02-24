@@ -1,0 +1,13 @@
+lockfileVersion: 5.3
+
+specifiers:
+  iobuffer: ^5.1.0
+
+dependencies:
+  iobuffer: 5.1.0
+
+packages:
+
+  /iobuffer/5.1.0:
+    resolution: {integrity: sha512-2BYQoYadP3FkVPfqGxs4WO6z3HWGZokJfIkgOARn4P4ipVQCHJnPyva7rJLVmnRA7XTk8ZoLwutuutGeMpu3PA==}
+    dev: false
